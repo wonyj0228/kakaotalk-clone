@@ -4,12 +4,12 @@
 @import 'reset.css';
 @import 'variables.css';
 
-/* compopnents */
-@import '/component/status-bar.css';
-@import '/component/nav-bar.css';
+/* Compopnents */
+@import 'component/status-bar.css';
+@import 'component/nav-bar.css';
 
 /* screens */
-@import '/screens/login.css';
+@import 'screens/login.css';
 
 body {
   font-family: 'Open Sans', sans-serif;
