@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+/* 파일순서 지키기 */
+@import 'reset.css';
+@import 'variables.css';
+
+/* compopnents */
+@import '/component/status-bar.css';
+@import '/component/nav-bar.css';
+
+/* screens */
+@import '/screens/login.css';
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  height: 100%;
+}
