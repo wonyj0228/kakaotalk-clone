@@ -25,6 +25,9 @@
   font-size: 15px;
   color: var(--font-gray);
 }
+.user-component__subtitle i {
+  color: #ff5b49;
+}
 
 .user-component__avatar--xl {
   width: 80px;

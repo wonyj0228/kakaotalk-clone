@@ -20,7 +20,12 @@
   top: -3px;
 }
 
-.icon-badge__screen-header {
+.icon-badge__screen-find {
   left: 87px;
+  top: -7px;
+}
+
+.icon-badge__screen-more {
+  left: 132px;
   top: -7px;
 }
