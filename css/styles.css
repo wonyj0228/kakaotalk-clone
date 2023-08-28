@@ -8,6 +8,7 @@
 @import 'component/status-bar.css';
 @import 'component/nav-bar.css';
 @import 'component/screen-header.css';
+@import 'component/alt-screen-header.css';
 @import 'component/user-component.css';
 @import 'component/badge.css';
 @import 'component/icon-row.css';
@@ -17,6 +18,7 @@
 @import 'screens/friends.css';
 @import 'screens/find.css';
 @import 'screens/more.css';
+@import 'screens/settings.css';
 
 body {
   color: #2e363e;
