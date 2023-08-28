@@ -14,6 +14,7 @@
 /* screens */
 @import 'screens/login.css';
 @import 'screens/friends.css';
+@import 'screens/find.css';
 
 body {
   color: #2e363e;
@@ -22,5 +23,5 @@ body {
 }
 
 .main-screen {
-  padding: 0px var(--horizontal-space);
+  padding: 0 var(--horizontal-space);
 }

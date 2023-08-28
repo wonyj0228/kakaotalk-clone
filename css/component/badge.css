@@ -9,3 +9,18 @@
   color: white;
   font-weight: 600;
 }
+
+.icon-badge {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  position: absolute;
+  left: 20px;
+  top: -3px;
+}
+
+.icon-badge__screen-header {
+  left: 87px;
+  top: -7px;
+}
