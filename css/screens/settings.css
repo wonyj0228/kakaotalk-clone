@@ -1,11 +1,17 @@
+.settings-status {
+  background-color: white;
+  z-index: 2;
+}
+.settings-alt-header {
+  background-color: white;
+  z-index: 1;
+}
+
 .settings-screen {
   margin-top: 70px;
   margin-bottom: 50px;
   overflow: scroll;
-}
-
-.settings-screen::-webkit-scrollbar {
-  /* display: none; */
+  z-index: 3;
 }
 
 .settings__setting {
